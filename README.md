@@ -5,4 +5,4 @@ Hangman was a little project we made in visual studio using C# code. Everything 
 ---
 
 ## Objective
-Guess the letter
+Guess the word
